@@ -1,7 +1,7 @@
 # Site settings
 title: Beining Zhang
 email: beiningzhang001@gmail.com
-url: https://beiningzhang.github.io/profile-test
+url: https://beiningzhang.github.io/test-profile/
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "Prospective PhD student at University of Southampton"
 skills: "Artificial Intelligent (AI), Multi-Agent Systems (MAS)"
@@ -43,14 +43,6 @@ social:
     url: https://www.linkedin.com/in/beining-zhang/
   - title: github
     url: https://github.com/BeiningZhang
-  # - title: twitter
-#     url: 
-#   - title: facebook
-#     url:
-#   - title: stack-overflow
-#     url: 
-#   - title: bitbucket
-#     url: 
 
 # Postal address (add as many lines as necessary)
 address:
