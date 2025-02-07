@@ -1,7 +1,7 @@
 # Site settings
 title: Beining Zhang
 email: beiningzhang001@gmail.com
-url: https://github.com/BeiningZhang/portfolio-test
+url: https://github.com/BeiningZhang/portfolio
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "Prospective PhD student at University of Southampton"
 skills: "Artificial Intelligent (AI), Multi-Agent Systems (MAS)"
@@ -32,23 +32,25 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+#   copyright: Dr. Henry Jekyll
+  location: Address
   social: Around the Web
-  credits: Credits
+#   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: linkedIn
+    url: https://www.linkedin.com/in/beining-zhang/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/BeiningZhang
+  # - title: twitter
+#     url: 
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url: 
+#   - title: bitbucket
+#     url: 
 
 # Postal address (add as many lines as necessary)
 address:
