@@ -35,7 +35,7 @@ footer:
 #   copyright: Dr. Henry Jekyll
   location: Address
   social: Around the Web
-#   credits: Credits
+  contact: Contact
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -49,8 +49,10 @@ address:
   - line: Southampton, 
   - line: United Kingdom, SO17 1EZ
 
-# Credits content
-# credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# Contact Methods
+contact: 
+  - email: beiningzhang001@gmail.com
+  - phone: +44 07547987336
 
 # Build settings
 markdown: kramdown
