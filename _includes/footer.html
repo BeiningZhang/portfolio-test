@@ -4,7 +4,7 @@
     <div class="container">
       <div class="row">
         <div class="footer-col col-md-4">
-          <h3>{{ site.footer.location }}</h3>
+          <h3>{{ site.footer.address }}</h3>
           <p>
             {% for adress in site.address %}
             {{ adress.line }} <br>
@@ -24,7 +24,11 @@
         </div>
         <div class="footer-col col-md-4">
           <h3>{{ site.footer.contact }}</h3>
-          <p>{{ site.contact }}</p>
+          <p>
+            {% for contact in site.contact %}
+            {{ contact.line }} <br>
+            {% endfor %}
+          </p>
         </div>
       </div>
     </div>

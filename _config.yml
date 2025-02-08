@@ -33,13 +33,13 @@ color:
 # Footer settings
 footer:
 #   copyright: Dr. Henry Jekyll
-  location: Address
+  address: Address
   social: Around the Web
   contact: Contact
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: linkedIn
+  - title: linkedin
     url: https://www.linkedin.com/in/beining-zhang/
   - title: github
     url: https://github.com/BeiningZhang
@@ -51,8 +51,8 @@ address:
 
 # Contact Methods
 contact: 
-  - email: beiningzhang001@gmail.com
-  - phone: +44 07547987336
+  - line: beiningzhang001@gmail.com
+  - line: +44 07547987336
 
 # Build settings
 markdown: kramdown
